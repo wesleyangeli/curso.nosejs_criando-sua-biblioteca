@@ -1,0 +1,29 @@
+{
+  "name": "curso.nosejs_criando-sua-biblioteca",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js ./test",
+    "cli": "node cli.js ./arquivos/texto1.md"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wesleyangeli/curso.nosejs_criando-sua-biblioteca.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wesleyangeli/curso.nosejs_criando-sua-biblioteca/issues"
+  },
+  "homepage": "https://github.com/wesleyangeli/curso.nosejs_criando-sua-biblioteca#readme",
+  "type": "module",
+  "dependencies": {
+    "chalk": "^5.0.1",
+    "node-fetch": "^2.6.1"
+  },
+  "devDependencies": {
+    "jest": "29"
+  }
+}
