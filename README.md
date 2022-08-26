@@ -1,6 +1,6 @@
 # Curso NodeJS: Criando sua biblioteca
 
-> **ATENÇÃO**: Projeto com finalidade de registro acadêmico com finalidade única e específica de registrar minha jornada como programador.
+> **ATENÇÃO**: Projeto com finalidade única e específica de registrar minha jornada como programador.
 
 ### Introdução
 
